@@ -1,0 +1,14 @@
+G:\Downloads\Git\App\bin\Release\net8.0\DotNet.Docker.exe
+G:\Downloads\Git\App\bin\Release\net8.0\DotNet.Docker.deps.json
+G:\Downloads\Git\App\bin\Release\net8.0\DotNet.Docker.runtimeconfig.json
+G:\Downloads\Git\App\bin\Release\net8.0\DotNet.Docker.dll
+G:\Downloads\Git\App\bin\Release\net8.0\DotNet.Docker.pdb
+G:\Downloads\Git\App\obj\Release\net8.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+G:\Downloads\Git\App\obj\Release\net8.0\DotNet.Docker.AssemblyInfoInputs.cache
+G:\Downloads\Git\App\obj\Release\net8.0\DotNet.Docker.AssemblyInfo.cs
+G:\Downloads\Git\App\obj\Release\net8.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+G:\Downloads\Git\App\obj\Release\net8.0\DotNet.Docker.dll
+G:\Downloads\Git\App\obj\Release\net8.0\refint\DotNet.Docker.dll
+G:\Downloads\Git\App\obj\Release\net8.0\DotNet.Docker.pdb
+G:\Downloads\Git\App\obj\Release\net8.0\DotNet.Docker.genruntimeconfig.cache
+G:\Downloads\Git\App\obj\Release\net8.0\ref\DotNet.Docker.dll
